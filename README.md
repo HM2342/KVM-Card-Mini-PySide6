@@ -31,3 +31,6 @@ Simple KVM Console to USB
 跨平台版本见cross-platform分支
 
 Trigger build
+
+
+
